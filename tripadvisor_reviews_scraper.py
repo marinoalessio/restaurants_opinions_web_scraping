@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import sys
 import csv
 from selenium import webdriver
@@ -13,10 +10,6 @@ from selenium.webdriver.remote.webelement import WebElement
 import time
 import re
 import pandas as pd
-
-
-# In[ ]:
-
 
 def get_reviews_from_url(url):
     
@@ -64,4 +57,3 @@ def get_reviews_from_url(url):
 
     return df
     driver.close()
-
