@@ -150,7 +150,8 @@ def get_top_from_query(query, max_elements=10):
         idx += 1
         
     return df
-
+```
+```python
 def twitter_scraper(query, Stop_num, kw_start_point=0, start_date=None, end_date=None):
     
     options = webdriver.ChromeOptions()
@@ -231,7 +232,8 @@ def twitter_scraper(query, Stop_num, kw_start_point=0, start_date=None, end_date
     df_sheet = pd.DataFrame(Data_List, columns=['Date', 'Content'])
     driver.close()
     return df_sheet
-
+```
+```python
 def get_reviews_from_url(url):
     
     options = webdriver.ChromeOptions()
@@ -284,7 +286,8 @@ def get_reviews_from_url(url):
         
     driver.close()
     return df
-
+```
+```python
 def clean_text(text, name):
 
     text = text.lower()
@@ -321,11 +324,13 @@ def clean_text(text, name):
     text = " ".join(text)
 
     return text 
-
+```
+```python
 def get_sentiment(x):
     sentiment = TextBlob(x)
     return sentiment.sentiment.polarity
-
+```
+```python
 def get_analysis_from_opinions(opinions, name):
     
     df = pd.DataFrame(opinions, columns = ['content'])
@@ -414,7 +419,8 @@ def get_analysis_from_opinions(opinions, name):
     
     root_img = 'analysis_img/'
     plt.savefig(root_img + '[{}].png'.format(name.replace(" ", "_")))
-
+```
+```python
 def main(query):
     
     top_restaurants_df = get_top_from_query(query, max_elements=10)
@@ -451,5 +457,4 @@ def main(query):
         pd.DataFrame(list_opinions, columns=['opinions']).to_csv(root_data+name.replace(" ", "_")+'.csv')
         
         get_analysis_from_opinions(list_opinions, name)
-
 ```
