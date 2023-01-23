@@ -42,6 +42,41 @@ So seeing which features are the most satisfactory and which ones are less.
 
 ### data folder
 > It collects the opinion data relative to each restaurant for each city, as a "backup"
+> 
+```
+- Alix_et_Mika_Paris_Ile_de_France.csv: 26
+- Bayleaf_Restaurant_London_England.csv: 195
+- Bistrot_Instinct_Paris_Ile_de_France.csv: 96
+- Bleecker_Street_Pizza_New_York_City.csv: 267
+- Bonoo_Indian_Tapas_London_England.csv: 225
+- Boucherie_Union_Square_New_York_City.csv: 225
+- Boucherie_West_Village_New_York_City.csv: 227
+- Cavale_Paris_Ile_de_France.csv: 7
+- Club_A_Steakhouse_New_York_City.csv: 250
+- David_Burke_Tavern_New_York_City.csv: 114
+- Da_Andrea_Ristorante_New_York_City.csv: 225
+- Da_Giuseppe_Paris_Ile_de_France.csv: 120
+- Devine_Restaurant_Coffee_Bar_London_England.csv: 213
+- Devran_London_England.csv: 225
+- Frog_XVI_Paris_Ile_de_France.csv: 225
+- Il_Etait_Un_Square_Paris_Ile_de_France.csv: 225
+- Indian_Room_London_England.csv: 227
+- Little_Alley_New_York_City.csv: 70
+- Nell_Arte_Paris_Ile_de_France.csv: 4
+- Nora_Cafe_London_England.csv: 225
+- Olio_e_Piu_New_York_City.csv: 238
+- Petite_Boucherie_New_York_City.csv: 227
+- Piccola_Cucina_Estiatorio_New_York_City.csv: 219
+- Pur_Jean_Francois_Rouquette_Paris_Ile_de_France.csv: 225
+- Scarlett_Green_London_England.csv: 225
+- Sheba_London_England.csv: 227
+- STK_Steakhouse_Strand_London_England.csv: 225
+- The_Consulate_New_York_City.csv: 221
+- The_India_2_Best_of_the_City_London_England.csv: 127
+- The_London_Cabaret_Club_England.csv: 225
+- Verse_Toujours_Paris_Ile_de_France.csv: 70
+- Zincou_Vins_Tapas_Paris_Ile_de_France.csv: 1
+```
 
 ### analysis_img folder
 > It collects the plots for each restaurant with the relative features analysis
