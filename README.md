@@ -468,7 +468,7 @@ def main(query):
 ```
 ## Features Analysis Example
 
-![alt text](http://url/to/img.png)
+![alt text](/analysis_img/[Little_Alley_New_York_City].png)
 
 ## Conclusion
 
