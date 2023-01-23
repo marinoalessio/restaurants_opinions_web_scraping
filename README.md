@@ -4,7 +4,7 @@ This project aims to scrape people's opinions through social networks, related t
 
 ### Which platforms to get people's opinions?
 
-Twitter and TripAdvisor. 
+**Twitter** and **TripAdvisor**. 
 
 This choice is because:
 - Having a second source is great for having more accurate data
