@@ -67,3 +67,8 @@ Verse_Toujours_Paris_Ile_de_France.csv: 70
 
 ### notebooks_ipynb folder
 > The copies of the scripts.py in notebook.ipynb format
+
+## Code
+```python
+print(d)
+```
