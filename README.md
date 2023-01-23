@@ -42,3 +42,12 @@ So seeing which features are the most satisfactory and which ones are less.
 
 ### data folder
 > It collects the opinion data relative to each restaurant for each city, as a "backup"
+
+### analysis_img folder
+> It collects the plots for each restaurant with the relative features analysis
+
+### demo folder
+> Here it is stored the demo of the website
+
+### notebooks_ipynb folder
+> The copies of the scripts.py in notebook.ipynb format
