@@ -1,11 +1,8 @@
 # Restaurants Opinions Web Scraping - Features Analysis through Social Networks
 
 ## Index
-- [Project Structure]([https://pages.github.com/](https://github.com/marinoalessio/restaurants_opinions_web_scraping#project-structure))
-- [Code]([https://pages.github.com/](https://github.com/marinoalessio/restaurants_opinions_web_scraping#code))
-- [Code](#code)
-
-- docs/CONTRIBUTING.md
+[Project Structure](#project-structure)
+[Code](#code)
 
 This project aims to scrape people's opinions through social networks, related to a specific topic: in our case, about restaurants.
 
