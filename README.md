@@ -71,7 +71,7 @@ Verse_Toujours_Paris_Ile_de_France.csv: 70
 ### analysis_img folder
 > It collects the plots for each restaurant with the relative features analysis
 
-### demo folder
+### demo website folder
 > Here it is stored the demo of the website
 
 ### notebooks_ipynb folder
