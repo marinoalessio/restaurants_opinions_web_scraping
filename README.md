@@ -21,12 +21,16 @@ So seeing which features are the most satisfactory and which ones are less.
 ### main.py
 > It is the main function containing the gist of the project. It collects several functions found in other .py files. 
 > The strength of having several files is the modular structure that serves to keep everything tidier. 
->> However, it was also decided to copy all the functions in a file so as not to have problems with dependencies through imports. 
+>> However, it was also decided to copy all the functions in a file so as to avoid dependencies through imports and make it clearer. 
 > Anyways, it is possible to use each function in isolation via 
 > `from file_name import function_name`
 
 ### tripadvisor_search.py
-> It contains the function `get_top_from_query(query, max_elements=10)`
+> It contains the function `get_top_from_query(query, max_elements=10)` that gets name and link of the most influential `n` restaurants
 
-### tripadvisor_search.py
-> It contains the function `get_top_from_query(query, max_elements=10)`
+### twitter_scraper.py
+> It contains the function `twitter_scraper(query, Stop_num, kw_start_point=0, start_date=None, end_date=None)` to get a `Stop_num` tweets from a `query` as a keyword.
+> It returns a dataframe with date and tweet content
+
+### tripadvisor_reviews_scraper.py
+> The function `get_reviews_from_url(url)` retrieves all the TripAdvisor reviews from url. It returns a dataframe with title, date, rating and review content.
