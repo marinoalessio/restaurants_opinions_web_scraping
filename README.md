@@ -15,3 +15,8 @@ This choice is because:
 
 We are interested in offering businesses a careful analysis of the advantages and disadvantages of their business, furthermore, to orient the clients' choice.
 So seeing which features are the most satisfactory and which ones are less.
+
+## Project Structure
+
+* main
+* >
