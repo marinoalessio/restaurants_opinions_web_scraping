@@ -1,6 +1,7 @@
 # Restaurants Opinions Web Scraping - Features Analysis through Social Networks
 
 ## Index
+- [Introduction](#introduction)
 - [Repository Structure](#repository-structure)
 - [Code](#code)
 - [Features Analysis Example](#features-analysis-example)
