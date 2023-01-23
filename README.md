@@ -34,3 +34,11 @@ So seeing which features are the most satisfactory and which ones are less.
 
 ### tripadvisor_reviews_scraper.py
 > The function `get_reviews_from_url(url)` retrieves all the TripAdvisor reviews from url. It returns a dataframe with title, date, rating and review content.
+
+### get_analysis.py
+> `clean_text(text, name)` removes all the useless and misleading elements.
+> `get_sentiment(x)` gets the sentiment score from -1 (negative) to +1 (positive) given a text.
+> `get_analysis_from_opinions(opinions, name)` plots the analysis on features (most common words)
+
+### data folder
+> It collects the opinion data relative to each restaurant for each city, as a "backup"
