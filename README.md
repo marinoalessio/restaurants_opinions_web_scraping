@@ -3,7 +3,10 @@
 ## Index
 - [Project Structure](#project-structure)
 - [Code](#code)
+- [Conclusion](#conclusion)
 ---
+## Introduction
+
 This project aims to scrape people's opinions through social networks, related to a specific topic: in our case, about restaurants.
 
 ### Which platforms to get people's opinions?
