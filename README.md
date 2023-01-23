@@ -1,7 +1,7 @@
 # Restaurants Opinions Web Scraping - Features Analysis through Social Networks
 
 ## Index
-- [Project Structure](#project-structure)
+- [Repository Structure](#project-structure)
 - [Code](#code)
 - [Conclusion](#conclusion)
 ---
@@ -23,7 +23,7 @@ This choice is because:
 We are interested in offering businesses a careful analysis of the advantages and disadvantages of their business, furthermore, to orient the clients' choice.
 So seeing which features are the most satisfactory and which ones are less.
 
-## Project Structure
+## Repository Structure
 
 ### main.py
 > It is the main function containing the gist of the project. It collects several functions found in other .py files. 
