@@ -466,7 +466,7 @@ def main(query):
         
         get_analysis_from_opinions(list_opinions, name)
 ```
-## Features Analysis Examples
+## Features Analysis Example
 
 ![alt text](http://url/to/img.png)
 
