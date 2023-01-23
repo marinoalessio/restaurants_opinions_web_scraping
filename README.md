@@ -50,7 +50,7 @@ So seeing which features are the most satisfactory and which ones are less.
 > `get_analysis_from_opinions(opinions, name)` plots the analysis on features (most common words)
 
 ### data folder
-> It collects the opinion data relative to each restaurant for each city, as a "backup"
+> It collects the opinion data relative to each restaurant for each city, as a "backup".
 > Here is half of the files stored in the folder and their opinion count. It is important to have enough data to obtain more precise analyses.
 ```
 Alix_et_Mika_Paris_Ile_de_France.csv: 26
