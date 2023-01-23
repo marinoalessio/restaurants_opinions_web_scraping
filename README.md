@@ -3,7 +3,7 @@
 ## Index
 - [Project Structure]([https://pages.github.com/](https://github.com/marinoalessio/restaurants_opinions_web_scraping#project-structure))
 - [Code]([https://pages.github.com/](https://github.com/marinoalessio/restaurants_opinions_web_scraping#code))
-- [Code]([/Code.md](https://github.com/marinoalessio/restaurants_opinions_web_scraping#code))
+- [Code](##Code)
 
 - docs/CONTRIBUTING.md
 
