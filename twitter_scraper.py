@@ -114,8 +114,6 @@ def twitter_scraper(query, Stop_num, kw_start_point=0, start_date=None, end_date
 
 # In[ ]:
 
-
-Keyword_Path = 'keyword.csv'
 Stop_num = 100  # max number of tweets
 kw_start_point = 0  # this parameter decides the start keyword of the crawler.its default value is 0
 start_date = '2023-01-20'  # this parameter decides the start date of the crawler.its default value is 2021-01-01
@@ -123,5 +121,4 @@ end_date = '2015-01-01'  # this parameter decides the end date of the crawler.it
 
 # To execute
 query = ''
-df = Twitter_Crawler(query, Stop_num, kw_start_point, start_date, end_date)
-
+df = twitter_scraper(query, Stop_num, kw_start_point, start_date, end_date)
