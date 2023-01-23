@@ -109,7 +109,8 @@ import matplotlib.pyplot as plt
 # nltk.download('stopwords')
 # nltk.download('omw-1.4')
 # nltk.download('wordnet')
-
+```
+```python
 def get_top_from_query(query, max_elements=10):
     options = webdriver.ChromeOptions()
     options.add_argument('-headless')
