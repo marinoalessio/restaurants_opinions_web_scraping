@@ -475,6 +475,7 @@ def main(query):
 Scraping reviews, and above all applying complex analyzes to them, takes time: obtaining about 300 reviews, for each restaurant, for 10 restaurants takes about 15 minutes.
 For this reason we have decided to test its functioning in the cities of New York, London and Paris.
 The website is developed for demonstration purposes.
+
 All data on tweets and reviews are on GitHub as well as images obtained via matplotlib.
 It would be interesting, to develop the same Javascript application for web integration and data interactivity.
 Furthermore, the scraping functions potentially collect other data including date and ratings, which could be used for further analysis.
