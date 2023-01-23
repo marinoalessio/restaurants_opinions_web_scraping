@@ -18,7 +18,9 @@ So seeing which features are the most satisfactory and which ones are less.
 
 ## Project Structure
 
-> `main.py` it's the function containing
+> `main.py` It is the main function containing the gist of the project. It collects several functions found in other .py files. 
+> The strength of having several files is the modular structure that serves to keep everything tidier. However, it was also decided to copy all the functions in a file so as not to have problems with dependencies through imports. 
+> However it is possible to use each function in isolation via `from file_name import function_name`
 
 > `dsa` fds containgsfdsx
 
