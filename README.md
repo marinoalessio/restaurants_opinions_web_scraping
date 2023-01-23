@@ -18,5 +18,5 @@ So seeing which features are the most satisfactory and which ones are less.
 
 ## Project Structure
 
-* main
-* >
+> `main.py` it's
+> `dsa` fds
